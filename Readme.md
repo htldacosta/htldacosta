@@ -40,10 +40,8 @@
 ### 🧩 Estatísticas do GitHub
 
 ![Hitalu GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitalu&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitalu&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htldacosta)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hitalu&theme=tokyonight&hide_border=true&locale=pt-br)
-
-> ⚙️ Essas estatísticas são atualizadas automaticamente conforme novos projetos e commits são adicionados.
 
 ---
 
