@@ -39,11 +39,9 @@
 
 ### 🧩 Estatísticas do GitHub
 
-![Hitalu GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitalu&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Hitalu GitHub Stats](https://github-readme-stats.vercel.app/api?username=htldacosta&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htldacosta&layout=compact&theme=radical)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?htldacosta&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hitalu&theme=tokyonight&hide_border=true&locale=pt-br)
+![GitHub Streak](https://streak-stats.demolab.com?user=htldacosta&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ---
 
