@@ -47,22 +47,24 @@
 
 ### 🚀 Projetos em Destaque
 
-| Projeto                                                                      | Descrição                                                       | Tecnologias                        |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------- |
-| [Sistema de Biblioteca Online](https://github.com/hitalu/sistema-biblioteca) | Sistema completo para gestão de acervo, empréstimos e usuários. | Java, Spring Boot, PostgreSQL      |
-| [API de Gestão de Tarefas](https://github.com/hitalu/todolist-api)           | API RESTful para gerenciamento de tarefas.                      | Java, Spring Boot, Docker          |
-| [API de Catálogo de Filmes](https://github.com/hitalu/movie-catalog-api)     | Catálogo de filmes com filtros e autenticação JWT.              | Java, Spring Boot, MongoDB         |
-| [API de Controle Financeiro](https://github.com/hitalu/finance-api)          | Controle de despesas, receitas e relatórios mensais.            | Java, Spring Boot, PostgreSQL      |
-| [API de E-commerce](https://github.com/hitalu/ecommerce-api)                 | Backend para loja virtual com carrinho e pedidos.               | Java, Spring Boot, JPA             |
-| [API de Usuários e Autenticação](https://github.com/hitalu/auth-api)         | Sistema de autenticação com JWT e refresh tokens.               | Java, Spring Boot, Spring Security |
+| Projeto                                                                                 | Descrição                                                                    | Tecnologias                                    |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------- |
+| [E-mail Service ](https://github.com/htldacosta/email-service)                          | Serviço de email simples para o meu site pessoal, receber email de usuários. | Java, Spring Boot, aws                         |
+| [API de Encurtador de link](https://github.com/htldacosta/encurtador-de-link)           | API Simples para encurtar Links                                              | Java, Spring Boot, Docker, MongoDB             |
+| [API de Livraria](https://github.com/htldacosta/library-API)                            | Crud Simples para gerenciamente de livraria.                                 | Java, Spring Boot, PostgreSQL                  |
+| [API de Newsletter](https://github.com/htldacosta/newsletter-API)                       | API de envio de mensagens para pessoas cadastradas.                          | Java, Spring Boot, AWS, PostgreSQL,            |
+| [Crud-Blog](https://github.com/htldacosta/Crud-Blog)                                    | Crud simples para blog, para publicação de conteúdo.                         | Java, Spring Boot, PostgreSQL                  |
+| [API de Login com Autenticação](https://github.com/htldacosta/Login-Authentication-API) | Sistema de autenticação com JWT e refresh tokens.                            | Java, Spring Boot, Spring Security, PostgreSQL |
+
+| )
 
 ---
 
 ### 🌎 Onde me encontrar
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://hitalu.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitalu)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitalu@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalu-d-5109a828b/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitaludcosta@gmail.com)
 
 ---
 
