@@ -51,7 +51,7 @@
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------- |
 | [E-mail Service ](https://github.com/htldacosta/email-service)                          | Serviço de email simples para o meu site pessoal, receber email de usuários. | Java, Spring Boot, aws                         |
 | [API de Encurtador de link](https://github.com/htldacosta/encurtador-de-link)           | API Simples para encurtar Links                                              | Java, Spring Boot, Docker, MongoDB             |
-| [API de Livraria](https://github.com/htldacosta/library-API)                            | Crud Simples para gerenciamente de livraria.                                 | Java, Spring Boot, PostgreSQL                  |
+| [API CRUD de Livraria](https://github.com/htldacosta/library-API)                       | Crud Simples para gerenciamente de livraria.                                 | Java, Spring Boot, PostgreSQL                  |
 | [API de Newsletter](https://github.com/htldacosta/newsletter-API)                       | API de envio de mensagens para pessoas cadastradas.                          | Java, Spring Boot, AWS, PostgreSQL,            |
 | [Crud-Blog](https://github.com/htldacosta/Crud-Blog)                                    | Crud simples para blog, para publicação de conteúdo.                         | Java, Spring Boot, PostgreSQL                  |
 | [API de Login com Autenticação](https://github.com/htldacosta/Login-Authentication-API) | Sistema de autenticação com JWT e refresh tokens.                            | Java, Spring Boot, Spring Security, PostgreSQL |
