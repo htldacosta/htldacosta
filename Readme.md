@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Sou **estudante de Engenharia de Software**, apaixonado por tecnologia, arquitetura e escalabilidade de sistemas.
-- 💼 Atuei como **desenvolvedor freelancer (2022–2023)**, com foco em soluções FrontEnd.
+- 💼 Atuo como **desenvolvedor freelancer (2022–2025)**.
 - 🧩 Atualmente, estou me aprofundando no **ecossistema Java**, estruturas de dados, arquitetura limpa, computação em nuvem e microserviços.
 - 🚀 Meu objetivo é me tornar um **Engenheiro de Software especializado em backend**, construindo sistemas robustos e escaláveis.
 
@@ -23,7 +23,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular] https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 🔹 Conhecimentos Secundários
@@ -31,8 +32,6 @@
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
