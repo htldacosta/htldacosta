@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Sou **estudante de Engenharia de Software**, apaixonado por tecnologia, arquitetura e escalabilidade de sistemas.
-- 💼 Atuo como **desenvolvedor freelancer (2022–2025)**.
+- 💼 Atuo como **desenvolvedor freelancer (2022–Atuamente)**.
 - 🧩 Atualmente, estou me aprofundando no **ecossistema Java**, estruturas de dados, arquitetura limpa, computação em nuvem e microserviços.
 - 🚀 Meu objetivo é me tornar um **Engenheiro de Software especializado em backend**, construindo sistemas robustos e escaláveis.
 
@@ -24,7 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular] https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 🔹 Conhecimentos Secundários
