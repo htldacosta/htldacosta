@@ -2,14 +2,14 @@
 
 💻 **Engenheiro de Software Backend | Java + Spring Boot**
 🎯 Focado em construir sistemas backend escaláveis, seguros e de alta performance.
-📚 Atualmente cursando **Engenharia de Software** e me especializando em arquitetura backend, APIs e sistemas distribuídos.
+📚 Atualmente cursando **Engenharia de Software** e me especializando em arquitetura, cloud e sistemas distribuídos.
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Sou **estudante de Engenharia de Software**, apaixonado por tecnologia, arquitetura e escalabilidade de sistemas.
-- 💼 Atuo como **desenvolvedor freelancer (2022–Atuamente)**.
+- 🎓 Sou **estudante de Engenharia de Software**, apaixonado por tecnologia.
+- 💼 Atuo como **desenvolvedor backend (2022–Atuamente)**.
 - 🧩 Atualmente, estou me aprofundando no **ecossistema Java**, estruturas de dados, arquitetura limpa, computação em nuvem e microserviços.
 - 🚀 Meu objetivo é me tornar um **Engenheiro de Software especializado em backend**, construindo sistemas robustos e escaláveis.
 
@@ -23,7 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![python](<[Python](https://shields.io)>)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 🔹 Conhecimentos Secundários
