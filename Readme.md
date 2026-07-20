@@ -28,7 +28,7 @@
 
 #### 🔹 Conhecimentos Secundários
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
@@ -39,7 +39,7 @@
 ### 🧩 Estatísticas do GitHub
 
 ![Hitalu GitHub Stats](https://github-readme-stats.vercel.app/api?username=htldacosta&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htldacosta&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htldacosta&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=htldacosta&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ---
