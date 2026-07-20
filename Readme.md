@@ -39,7 +39,7 @@
 ### 🧩 Estatísticas do GitHub
 
 ![Hitalu GitHub Stats](https://github-readme-stats.vercel.app/api?username=htldacosta&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=htldacosta&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=htldacosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 ![GitHub Streak](https://streak-stats.demolab.com?user=htldacosta&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ---
